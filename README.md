@@ -46,3 +46,14 @@ python feedback_mutation_pipeline.py
 📌 **Note:**
 - API usage may incur costs depending on the number of queries issued
 - Output logs and extracted results will be saved in the outputs/ directory
+
+## Citation
+
+```bibtex
+@article{wang2025silent,
+  title={Silent leaks: Implicit knowledge extraction attack on rag systems through benign queries},
+  author={Wang, Yuhao and Qu, Wenjie and Zhai, Shengfang and Jiang, Yanze and Liu, Zichen and Liu, Yue and Dong, Yinpeng and Zhang, Jiaheng},
+  journal={arXiv preprint arXiv:2505.15420},
+  year={2025}
+}
+```
