@@ -1,4 +1,4 @@
-# IKEA (**I**mplicit **K**nowledge **E**xtraction **A**ttack)
+# SILENT LEAKS: Implicit Knowledge Extraction Attack on RAG Systems Through Benign Queries
 
 [![ICLR 2026](https://img.shields.io/badge/ICLR-2026-blue)](https://iclr.cc/)
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-red)](https://openreview.net/pdf?id=zfVICPB5Sv)
