@@ -1,7 +1,13 @@
 # IKEA (**I**mplicit **K**nowledge **E**xtraction **A**ttack)
+
+[![ICLR 2026](https://img.shields.io/badge/ICLR-2026-blue)](https://iclr.cc/)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-red)](https://openreview.net/pdf?id=zfVICPB5Sv)
+[![Website](https://img.shields.io/badge/Website-Ikea-Green)]([https://github.com/Wangyuhao06/IKEA](https://wangyuhao06.github.io/IKEA-web/))
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black)](https://github.com/Wangyuhao06/IKEA)
+
 The code of the following paper will be released in this repository:
 
-[**Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems through Benign Queries**](https://arxiv.org/pdf/2505.15420) .
+[**Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems through Benign Queries**](https://openreview.net/pdf?id=zfVICPB5Sv) .
 
 
 📦 **Setup Instructions**
