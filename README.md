@@ -5,10 +5,6 @@
 [![Website](https://img.shields.io/badge/Website-Ikea-Green)](https://wangyuhao06.github.io/IKEA-web/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-black)](https://github.com/Wangyuhao06/IKEA)
 
-The code of the following paper will be released in this repository:
-
-[**Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems through Benign Queries**](https://openreview.net/pdf?id=zfVICPB5Sv) .
-
 
 📦 **Setup Instructions**
 
