@@ -52,10 +52,12 @@ python feedback_mutation_pipeline.py
 ## Citation
 
 ```bibtex
-@article{wang2025silent,
-  title={Silent leaks: Implicit knowledge extraction attack on rag systems through benign queries},
-  author={Wang, Yuhao and Qu, Wenjie and Zhai, Shengfang and Jiang, Yanze and Liu, Zichen and Liu, Yue and Dong, Yinpeng and Zhang, Jiaheng},
-  journal={arXiv preprint arXiv:2505.15420},
-  year={2025}
+@inproceedings{
+  wang2026silent,
+  title={Silent Leaks: Implicit Knowledge Extraction Attack on {RAG} Systems},
+  author={Yuhao Wang and Wenjie Qu and Shengfang Zhai and Yanze Jiang and Liu Zichen and Yue Liu and Yinpeng Dong and Jiaheng Zhang},
+  booktitle={The Fourteenth International Conference on Learning Representations},
+  year={2026},
+  url={https://openreview.net/forum?id=zfVICPB5Sv}
 }
 ```
